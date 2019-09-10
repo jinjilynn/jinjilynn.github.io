@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{130:function(n,e,t){"use strict";t.r(e);var r=t(1),u=t.n(r);e.default=function(n){return u.a.createElement("div",null,"设备空前时间分布mr")}}}]);

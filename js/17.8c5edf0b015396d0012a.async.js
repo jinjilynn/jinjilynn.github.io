@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{127:function(n,e,t){"use strict";t.r(e);var c=t(1),u=t.n(c);e.default=function(n){return u.a.createElement("div",null,"扫描部位实时分布情况ct")}}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[36],{481:function(e,n,a){"use strict";a.r(n);var s=a(73),t=a(74);n.default={name:"screen",init:{rendered:"",items:{}},effects:{},callbacks:{setLocalStorage:function(e){s.a.set(t.a.MULTISCREENS,e)}}}}}]);

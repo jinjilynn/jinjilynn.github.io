@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{122:function(n,e,t){"use strict";t.r(e);var c=t(1),u=t.n(c);e.default=function(n){return u.a.createElement("div",null,"设备折旧金额ct")}}}]);

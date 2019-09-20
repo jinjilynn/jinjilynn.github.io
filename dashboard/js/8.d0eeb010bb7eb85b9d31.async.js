@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{87:function(n,e,i){"use strict";i.r(e),e.default={name:"mr-free-distribution",init:null,effects:{}}}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{83:function(n,s,t){"use strict";t.r(s),s.default={name:"ct-last7days-shutdown",init:null,effects:{}}}}]);

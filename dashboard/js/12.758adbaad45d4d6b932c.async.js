@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{113:function(e,n,s){"use strict";s.r(n),n.default={name:"mr-last7days-checked",init:null,effects:{}}}}]);

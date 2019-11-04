@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{132:function(n,e,t){"use strict";t.r(e);var r=t(1),u=t.n(r);e.default=function(n){return u.a.createElement("div",null,"过去7天关机时间mr")}}}]);

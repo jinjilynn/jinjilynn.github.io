@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{84:function(n,i,t){"use strict";t.r(i),i.default={name:"ct-scan-distribution",init:null,effects:{}}}}]);

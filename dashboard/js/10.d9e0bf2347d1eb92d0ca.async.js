@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{89:function(n,s,t){"use strict";t.r(s),s.default={name:"mr-last7days-shutdown",init:null,effects:{}}}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{115:function(n,i,s){"use strict";s.r(i),i.default={name:"mr-scan-distribution",init:null,effects:{}}}}]);
